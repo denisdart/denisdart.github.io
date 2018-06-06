@@ -373,6 +373,7 @@ h2 {
 }
 
 .price-item-block h2 {
+    font-family: "RobotoMedium";
 	display: block;
 	position: relative;
 	text-align: center;
