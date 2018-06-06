@@ -1,12 +1,12 @@
 body {
-	font-family: Roboto, sans-serif;
+	font-family: "Roboto Regular";
 	font-size: 16px;
 	margin: 0;
 	padding: 0;
 }
 
 h1 {
-	font-family: Montserrat Black;
+	font-family: "MontserratBlack";
 }
 
 .container {
@@ -60,7 +60,7 @@ h1 {
 	margin: 0;
 	padding: 10px;
 	line-height: 30px;
-	font-family: Montserrat Black;
+	font-family: "MontserratBlack";
 	font-size: 20px;
 	color: #fff;
 	background-color: #3C57E5;
@@ -152,7 +152,7 @@ h1 {
 }
 
 .qform-top h1 {
-	font-family: Montserrat;
+	font-family: "MontserratMedium";
 	font-weight: 700;
 	font-size: 44px;
 }
@@ -206,7 +206,7 @@ h1 {
 	border-radius: 50px;
 	background-color: #FFEB3B;
 	font-size: 28px;
-	font-family: Roboto Medium;
+	font-family: "Roboto Medium";
 }
 
 .qform-btn:hover {
@@ -264,7 +264,7 @@ h1 {
 }
 
 .adv-all-items h2 {
-	font-family: Roboto Medium;
+	font-family: "Roboto Medium";
 	font-size: 24px;
 	margin-top: 15px;
 	margin-bottom: 50px;
@@ -373,7 +373,7 @@ h1 {
 .price-item-block h2 {
 	display: block;
 	position: relative;
-	font-family: Roboto Medium;
+	font-family: "Roboto Medium";
 
 	text-align: center;
 	font-size: 20px;
@@ -434,7 +434,7 @@ h1 {
 }
 
 .bg-price #fill-form {
-	font-family: Roboto Medium;
+	font-family: "Roboto Medium";
 	padding-top: 12px;
 }
 
@@ -643,7 +643,7 @@ h1 {
 	position: relative;
 	margin: 0 auto;
 	width: 83px;
-	font-family: Roboto;
+	font-family: "Roboto Regular";
 	font-style: italic;
 	font-weight: 700;
 	font-size: 28px;
@@ -845,13 +845,13 @@ h1 {
 }
 
 .oplata-header {
-	font-weight: 600;
-	padding-top: 100px;
-	padding-bottom: 60px;
-	font-size: 36px;
-	color: #fff;
-	text-transform: uppercase;
-	text-align: center;
+  font-weight: 600;
+  padding-top: 100px;
+  padding-bottom: 60px;
+  font-size: 36px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .oplata-content {
