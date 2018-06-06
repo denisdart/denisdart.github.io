@@ -9,6 +9,10 @@ h1 {
 	font-family: "MontserratBlack";
 }
 
+h2 {
+	font-family: "Roboto Regular";
+}
+
 .container {
 	max-width: 1170px;
 }
@@ -204,7 +208,7 @@ h1 {
 	border-radius: 50px;
 	background-color: #FFEB3B;
 	font-size: 28px;
-	font-family: "RobotoMedium", sans-serif;
+    font-weight: 500;
 }
 
 .qform-btn:hover {
@@ -262,7 +266,7 @@ h1 {
 }
 
 .adv-all-items h2 {
-	font-family: "RobotoMedium", sans-serif;
+	font-weight: 500;
 	font-size: 24px;
 	margin-top: 15px;
 	margin-bottom: 50px;
