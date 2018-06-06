@@ -1,16 +1,16 @@
 body {
-	font-family: "Roboto Regular";
+	font-family: "RobotoRegular", sans-serif;
 	font-size: 16px;
 	margin: 0;
 	padding: 0;
 }
 
 h1 {
-	font-family: "MontserratBlack";
+	font-family: "MontserratBlack", sans-serif;
 }
 
 h2 {
-	font-family: "Roboto Regular";
+	font-family: "RobotoMedium", sans-serif;
 }
 
 .container {
@@ -127,7 +127,7 @@ h2 {
 }
 
 .main-navigation {
-	font-weight: 500;
+  font-weight: 500;
 	padding-top: 10px;
 	order: 1;
 	flex: 0 1 55%;
@@ -375,8 +375,6 @@ h2 {
 .price-item-block h2 {
 	display: block;
 	position: relative;
-	font-family: "Roboto Medium";
-
 	text-align: center;
 	font-size: 20px;
 }
@@ -436,7 +434,6 @@ h2 {
 }
 
 .bg-price #fill-form {
-	font-family: "Roboto Medium";
 	padding-top: 12px;
 }
 
@@ -961,9 +958,9 @@ footer {
 
 .contact-block h1 {
 	font-weight: 600;
-	padding-top: 55px;
+	padding-top: 20px;
 	margin: 0 auto;
-	padding-bottom: 40px;
+	padding-bottom: 30px;
 	font-size: 36px;
 	color: #fff;
 	text-transform: uppercase;
@@ -982,7 +979,7 @@ footer {
 
 .copy-right {
 	font-size: 14px;
-	padding-top: 65px;
+	padding-top: 105px;
 	color: #fff;
 }
 
@@ -995,7 +992,7 @@ footer {
 	position: absolute;
 	width: 150px;
 	height: 50px;
-	top: 400px;
+	top: 375px;
 	left: 230px;
 }
 
