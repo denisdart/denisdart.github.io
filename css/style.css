@@ -204,7 +204,7 @@ h1 {
 	border-radius: 50px;
 	background-color: #FFEB3B;
 	font-size: 28px;
-	font-family: "RobotoMedium";
+	font-family: "RobotoMedium", sans-serif;
 }
 
 .qform-btn:hover {
@@ -262,7 +262,7 @@ h1 {
 }
 
 .adv-all-items h2 {
-	font-family: "Roboto Medium";
+	font-family: "RobotoMedium", sans-serif;
 	font-size: 24px;
 	margin-top: 15px;
 	margin-bottom: 50px;
