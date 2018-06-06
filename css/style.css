@@ -75,10 +75,8 @@ h1 {
 #site-logo:hover {
 	color: #3C57E5;
 	background-color: #fff;
-	transform: rotate(360deg);
 	transition: background-color .2s ease-out .2s,
 				color .2s ease-out .2s;
-	
 
 }
 
