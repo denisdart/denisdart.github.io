@@ -10,7 +10,7 @@ h1 {
 }
 
 h2 {
-	font-family: "RobotoMedium", sans-serif;
+	font-family: "RobotoRegular", sans-serif;
 }
 
 .container {
@@ -373,11 +373,11 @@ h2 {
 }
 
 .price-item-block h2 {
-    font-family: "RobotoMedium";
 	display: block;
 	position: relative;
 	text-align: center;
 	font-size: 20px;
+    font-weight: 600;
 }
 
 .price-item-price {
