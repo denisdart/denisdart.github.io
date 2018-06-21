@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="css/form.css">
+  <title>Форма заказа</title>
+</head>
+<body>
+	<section class="form-block">
+   <div class="container">
+     <div class="row">
+       <div class="col-md-12">
+         <h1>Форма заказа</h1>
+         <img src="img/form/glossyex.png" alt="Обложка глянец пример" width="250px">
+         <form action="" class="all-thing">
+           <label for="type-thing">Выберите тип товара: </label>
+           <select id="type-thing">
+            <option value="1">Обложка глянец</option>
+            <option value="2">Обложка матовая</option>
+            <option value="3">Брелок</option>
+          </select>
+        </form>
+         <form action="" class="glossyobl">
+           <label for="top-obl">Изображение: </label>
+           <input type="text" id="top-obl"><br>
+           <p id="ex-top">пример: "логотип Toyota на черном фоне с красным текстом TOYOTA"</p>
+           <label for="bottom-obl">Надпись: </label>
+           <input type="text" id="bottom-obl">
+           <p id="ex-bottom">пример: "о123аб152 на синем фоне"</p>
+         </form>
+
+         <div class="form-personal-data">
+           <form action="">
+             <label for="form-name"><b>Ваше имя</b> (обязательно):</label>
+             <input type="text" class="form-name" required><br>
+             <label for="form-email"><b>Ваш E-mail</b> (обязательно):</label>
+             <input type="text" class="form-email" required><br>
+             <label for="form-phone"><b>Номер телефона</b> (обязательно):</label>
+             <input type="text" class="form-phone" required><br>
+             <button class="btn">Получить макет для согласования</button>
+           </form>
+         </div>
+       </div>
+     </div>
+   </div>   
+ </section>
+</body>
+</html>
